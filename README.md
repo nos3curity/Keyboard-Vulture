@@ -1,5 +1,7 @@
 # Keyboard-Vulture
-![SpidermanVulture](https://cdn.mos.cms.futurecdn.net/ywDAmc9ikSaceqm7taFSuP.jpg)
+<p align="center">
+  <img src="https://cdn.mos.cms.futurecdn.net/ywDAmc9ikSaceqm7taFSuP.jpg" />
+</p>
 
 ## What is this tool?
 Keyboard Vulture is a basic Linux keylogger written in Go. When run as root, it captures keyboard input and sends it to a server over SYSLOG. The server then posts the keystrokes to Discord using webhooks. 
