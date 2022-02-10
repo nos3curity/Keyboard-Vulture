@@ -44,6 +44,6 @@ chmod +x Agent
 - `-s` specifies the IP of the Vulture server
 - `-p` specifies the port of the Vulture server
 - `-t` specifies the team number for the webhook
-- ` &` sets the process to the background
+- ` &` sends the process to the background
 
 That's it. You should now be all set. Keystrokes get sent home when ENTER is pressed on the keyboard.
