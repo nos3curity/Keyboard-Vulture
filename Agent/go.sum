@@ -1,0 +1,4 @@
+github.com/MarinX/keylogger v0.0.0-20210528193429-a54d7834cc1a h1:ItKXWegGGThcahUf+ylKFa5pwqkRJofaOyeGdzwO2mM=
+github.com/MarinX/keylogger v0.0.0-20210528193429-a54d7834cc1a/go.mod h1:aKzZ7D15UvH5LboXkeLmcNi+s/f805vUfB+BfW1fqd4=
+github.com/NextronSystems/simplesyslog v0.0.0-20210428092047-3d45942f13d1 h1:4ij9w7JKREtvQ1MVZ58Lx7moHu4ifvSfM+VvRJ125XA=
+github.com/NextronSystems/simplesyslog v0.0.0-20210428092047-3d45942f13d1/go.mod h1:riRumMkKREVAvelW/eEFn0zm0EiG7/fi4COfTI9PFzU=
